@@ -16,10 +16,12 @@ pip install -r requirements.txt
 ## Run codes
 For CIFAR10 dataset,
 ```
+cd ./command
 bash kmeans_select.sh
 ```
 For KMNIST dataset,
 ```
+cd ./command
 bash kmeans_select_k.sh
 ```
 
