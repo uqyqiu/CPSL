@@ -1,0 +1,8 @@
+torch==1.13.0
+torchvision==0.14.0
+pykeops==2.1.1
+scikit-learn==1.2.1
+numpy==1.23.3
+tqdm==4.64.1
+pandas==1.4.4
+matplotlib==3.5.3
